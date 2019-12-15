@@ -6,15 +6,15 @@
     "start": "nodemon -r esm ./bin/www"
   },
   "dependencies": {
-    "body-parser": "~1.18.2",
-    "cookie-parser": "~1.4.3",
-    "debug": "~2.6.9",
+    "body-parser": "~1.19.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~4.1.1",
     "esm": "^3.2.25",
-    "express": "~4.15.5",
+    "express": "~4.17.1",
     "jade": "~1.11.0",
-    "morgan": "~1.9.0",
-    "node-cache": "^5.0.2",
+    "morgan": "~1.9.1",
+    "node-cache": "^5.1.0",
     "request": "^2.88.0",
-    "serve-favicon": "~2.4.5"
+    "serve-favicon": "~2.5.0"
   }
 }

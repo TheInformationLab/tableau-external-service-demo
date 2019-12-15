@@ -1,0 +1,20 @@
+{
+  "name": "tableau-external-service",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon -r esm ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "esm": "^3.2.25",
+    "express": "~4.15.5",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0",
+    "node-cache": "^5.0.2",
+    "request": "^2.88.0",
+    "serve-favicon": "~2.4.5"
+  }
+}
